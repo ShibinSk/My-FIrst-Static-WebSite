@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="265px" height="265px" viewBox="0 0 265 265" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 10</title>
+    <defs>
+        <circle id="path-1" cx="132.5" cy="132.5" r="132.5"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="265" height="265" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <circle id="path-3" cx="133" cy="129" r="112"></circle>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="224" height="224" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Home-Page-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5" stroke-dasharray="4" stroke-opacity="0.3">
+        <g id="Desktop-VD_-Homepage_Campaign_1" transform="translate(-1164.000000, -842.000000)" stroke="#009BDE" stroke-width="6">
+            <g id="Group-10" transform="translate(1164.000000, 842.000000)">
+                <use id="Oval" mask="url(#mask-2)" xlink:href="#path-1"></use>
+                <use id="Oval-Copy-6" mask="url(#mask-4)" xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>
