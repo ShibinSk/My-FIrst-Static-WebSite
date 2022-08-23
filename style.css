@@ -396,7 +396,7 @@ background-color: #0000004D;
     color:#fff;
 }
 .form{
-    width: 100%;
+    width: 741px;
     height: 500px;
     background-color: #007BDE;
 }
@@ -407,7 +407,6 @@ background-color: #0000004D;
     margin-bottom: 20px;
     margin-top: 0px;
     color: #fff;
-    margin-left: 340px;
         
 }
 
@@ -453,15 +452,15 @@ background-color: #0000004D;
 }
 
 .row{
-     width: 20%; 
-    height:250px; 
-    
+     /* margin-left: 95; */
+     margin-left: 158px;
 
 
 }
 .row1{
     width: 20%;
     height: 250px;
+    margin-left: 10pc;
     
 }
 .row2{
@@ -494,12 +493,11 @@ background-color: #0000004D;
     background-color: white;
     display:flex;
     align-items: center;
-
+    justify-content: center;
 }
 .inner-footer2 img{
     width: 115px;
     height: 82px;
-    margin-left: 409px;
 }
 
 .arro-icon{
@@ -507,7 +505,7 @@ background-color: #0000004D;
     background-color: white;
     width: 83px;
     height: 84px;
-    margin-left: 50%;
+    margin-left: 46%;
     border-color: #0074B7;
     border-radius: 50%;
     margin-top: 10px;
@@ -526,10 +524,97 @@ nav hr{
     width: 100%;
 }
 .row2 img{
-    
-
+} 
+form{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #0074B6;
+    padding: 30px;
+}
+.text5{
+    font-size: 35px;
 }
 
+
+.name{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.lname,.fnameDiv{
+    display: flex;
+    flex-direction: column;
+}
+.emailDiv{
+    display: flex;
+    flex-direction: column;
+}
+.termsAndCondition{
+    display: flex;
+    flex-direction: row;
+}
+.name,.emailDiv,.termsAndCondition{
+    width: 741px;
+    height: 100%;
+    margin-bottom: 16px;
+}
+.name input,.emailDiv input{
+    width: 100%;
+}
+.fnameDiv,.lname{
+    width: 48%;
+}
+.fnameDiv input,.lname input,.emailDiv input{
+    height:40px;
+    padding-left: 15px;
+    padding-right: 15px;
+    outline: none;
+    font-weight: 500;
+    font-size: 18px;
+    border: none;
+    color: #495057;
+}
+.fnameDiv label,.lname label,.emailDiv label{
+    margin-bottom: 8px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #fff;
+}
+.termsAndCondition{
+    margin-top: 26px;
+}
+
+.termsAndCondition p{
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+   margin-left: 15px;
+}
+.termsAndCondition p span{
+    font-size: 18px;
+    font-weight: 500;
+    color: #fff;
+}
+.termsAndCondition input{
+    width: 24px;
+    
+    height: 24px;
+}
+form button{
+    width: 180px;
+    height: 41px;
+    margin-top: 25px;
+    text-align: center;
+    background-color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+    color: #0074b6;
+    border: none;
+    outline: none;
+}
 
 
 
