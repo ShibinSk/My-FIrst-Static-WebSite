@@ -336,7 +336,6 @@ hr{
 .text3{
     margin-left: 300px;
     margin-top: 25px;
-    serif;
     font-weight: 700;
     color: #fff;
     font-size: 24px;
@@ -350,7 +349,7 @@ hr{
 
 }
 .text4{
-    font-family: Refreshahh-Regular,Helvetica,Roboto,Arial,sans-serif;
+    font-family: "Helvetica,Roboto,Arial,sans-serif";
     font-weight: 400;
     color: #fff;
     font-size: 34px;
@@ -448,7 +447,7 @@ background-color: #0000004D;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    j
+    
 }
 
 .row{
