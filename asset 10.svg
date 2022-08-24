@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>314DC2F2-19F7-44EF-9B60-0B2BFBC9EC48</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M17.6162441,16 L23.6652649,22.0490208 C24.1115784,22.4953343 24.1115784,23.2189514 23.6652649,23.6652649 C23.2189514,24.1115784 22.4953343,24.1115784 22.0490208,23.6652649 L16,17.6162441 L9.95097918,23.6652649 C9.5046657,24.1115784 8.78104858,24.1115784 8.33473511,23.6652649 C7.88842163,23.2189514 7.88842163,22.4953343 8.33473511,22.0490208 L14.3837559,16 L8.33473511,9.95097918 C7.88842163,9.5046657 7.88842163,8.78104858 8.33473511,8.33473511 C8.78104858,7.88842163 9.5046657,7.88842163 9.95097918,8.33473511 L16,14.3837559 L22.0490208,8.33473511 C22.4953343,7.88842163 23.2189514,7.88842163 23.6652649,8.33473511 C24.1115784,8.78104858 24.1115784,9.5046657 23.6652649,9.95097918 L17.6162441,16 Z" id="path-1"></path>
+    </defs>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1052.000000, -2326.000000)" id="Message-Box-/-Congratulations-">
+            <g transform="translate(383.000000, 2310.000000)">
+                <g id="Close-button" transform="translate(661.000000, 8.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Combined-Shape" fill="#53565A" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
